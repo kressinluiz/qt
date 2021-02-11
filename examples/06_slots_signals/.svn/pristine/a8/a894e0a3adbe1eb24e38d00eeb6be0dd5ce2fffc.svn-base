@@ -1,0 +1,10 @@
+TARGET = simpleqt
+TEMPLATE = app
+
+SOURCES += main.cpp
+HEADERS += clickme.h
+
+QT += core
+
+message(QT_VERSION = $$QT_VERSION)
+greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
