@@ -214,6 +214,7 @@ DIST          = ../03_camera/android/AndroidManifest.xml \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/android-clang/qmake.conf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/spec_post.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/android/spec_post.prf \
+		../03_camera/.qmake.stash \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/exclusive_builds.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/toolchain.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_pre.prf \
@@ -399,6 +400,7 @@ Makefile: ../03_camera/simplecam.pro /home/kressin/Qt/5.12.6/android_armv7/mkspe
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/android-clang/qmake.conf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/spec_post.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/android/spec_post.prf \
+		.qmake.stash \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/exclusive_builds.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/toolchain.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_pre.prf \
@@ -583,6 +585,7 @@ Makefile: ../03_camera/simplecam.pro /home/kressin/Qt/5.12.6/android_armv7/mkspe
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/android-clang/qmake.conf:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/spec_post.prf:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/android/spec_post.prf:
+.qmake.stash:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/exclusive_builds.prf:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/toolchain.prf:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_pre.prf:

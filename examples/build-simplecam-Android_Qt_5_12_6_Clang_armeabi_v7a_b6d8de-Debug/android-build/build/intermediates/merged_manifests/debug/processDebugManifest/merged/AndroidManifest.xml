@@ -18,6 +18,8 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
 
     <!--
          The following comment will be replaced upon deployment with default features based on the dependencies of the application.
@@ -58,11 +60,9 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
             <!-- Application arguments -->
             <!-- meta-data android:name="android.app.arguments" android:value="arg1 arg2 arg3"/ -->
             <!-- Application arguments -->
-
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="simplecam" />
@@ -120,8 +120,6 @@
                 android:name="android.app.unsupported_android_version"
                 android:value="@string/unsupported_android_version" />
             <!-- Messages maps -->
-
-
             <!-- Splash screen -->
             <!--
                  Orientation-specific (portrait/landscape) data is checked first. If not available for current orientation,
@@ -134,8 +132,6 @@
             <!-- meta-data android:name="android.app.splash_screen_drawable" android:resource="@drawable/logo"/ -->
             <!-- meta-data android:name="android.app.splash_screen_sticky" android:value="true"/ -->
             <!-- Splash screen -->
-
-
             <!-- Background running -->
             <!--
                  Warning: changing this value to true may cause unexpected crashes if the
@@ -147,15 +143,11 @@
                 android:name="android.app.background_running"
                 android:value="false" />
             <!-- Background running -->
-
-
             <!-- auto screen scale factor -->
             <meta-data
                 android:name="android.app.auto_screen_scale_factor"
                 android:value="false" />
             <!-- auto screen scale factor -->
-
-
             <!-- extract android style -->
             <!--
                  available android:values :
@@ -169,9 +161,7 @@
                 android:value="default" />
             <!-- extract android style -->
         </activity>
-
         <!-- For adding service(s) please check: https://wiki.qt.io/AndroidServices -->
-
     </application>
 
 </manifest>
