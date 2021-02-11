@@ -1,0 +1,11 @@
+QT += core gui quick quickwidgets multimedia
+greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+
+TARGET = simplecam
+TEMPLATE = app
+
+SOURCES += main.cpp
+
+CONFIG += mobility
+
+RESOURCES += simplecam.qrc

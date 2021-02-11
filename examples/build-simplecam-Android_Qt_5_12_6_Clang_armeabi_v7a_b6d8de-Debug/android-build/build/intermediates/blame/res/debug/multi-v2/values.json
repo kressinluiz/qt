@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-simplecam-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-simplecam-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/values/libs.xml",
+                    "from": {
+                        "startLines": "60,29,9,13,2",
+                        "startColumns": "4,4,4,5,4",
+                        "startOffsets": "3383,705,291,347,55",
+                        "endLines": "67,59,11,27,4",
+                        "endColumns": "12,12,12,13,12",
+                        "endOffsets": "3921,3378,340,699,165"
+                    },
+                    "to": {
+                        "startLines": "2,10,41,44,59",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,598,3276,3330,3687",
+                        "endLines": "9,40,43,58,61",
+                        "endColumns": "12,12,12,13,12",
+                        "endOffsets": "593,3271,3325,3682,3797"
+                    }
+                },
+                {
+                    "source": "/home/kressin/Qt/5.12.6/android_armv7/src/android/java/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,4,3,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "319,197,85,427",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "422,314,192,520"
+                    },
+                    "to": {
+                        "startLines": "62,63,64,65",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3802,3910,4032,4144",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "3905,4027,4139,4237"
+                    }
+                }
+            ]
+        }
+    ]
+}

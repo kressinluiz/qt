@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>simplecam.qml</file>
+    </qresource>
+</RCC>
