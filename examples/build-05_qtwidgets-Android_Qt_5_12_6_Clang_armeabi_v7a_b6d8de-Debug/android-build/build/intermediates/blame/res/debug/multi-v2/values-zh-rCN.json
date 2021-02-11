@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-05_qtwidgets-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/home/kressin/Qt/5.12.6/android_armv7/src/android/java/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "4,3,2,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "207,133,55,274",
+                        "endColumns": "66,73,77,70",
+                        "endOffsets": "269,202,128,340"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,122,196,274",
+                        "endColumns": "66,73,77,70",
+                        "endOffsets": "117,191,269,340"
+                    }
+                }
+            ]
+        }
+    ]
+}
