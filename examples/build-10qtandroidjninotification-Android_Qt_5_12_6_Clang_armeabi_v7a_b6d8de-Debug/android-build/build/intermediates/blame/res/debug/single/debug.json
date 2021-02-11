@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/res/merged/debug/layout_splash.xml.flat",
+        "source": "/home/kressin/Qt/5.12.6/android_armv7/src/android/java/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon.png.flat",
+        "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/res/merged/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/res/merged/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-10qtandroidjninotification-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/drawable-xxhdpi/icon.png"
+    }
+]
