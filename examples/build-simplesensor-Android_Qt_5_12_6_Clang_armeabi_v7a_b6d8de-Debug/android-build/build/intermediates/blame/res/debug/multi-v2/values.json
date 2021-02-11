@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-simplesensor-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-simplesensor-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/values/libs.xml",
+                    "from": {
+                        "startLines": "41,23,9,13,2",
+                        "startColumns": "4,4,4,5,4",
+                        "startOffsets": "1968,536,291,347,55",
+                        "endLines": "43,40,11,21,4",
+                        "endColumns": "12,12,12,13,12",
+                        "endOffsets": "2022,1963,340,530,165"
+                    },
+                    "to": {
+                        "startLines": "2,5,23,26,35",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,114,1546,1600,1788",
+                        "endLines": "4,22,25,34,37",
+                        "endColumns": "12,12,12,13,12",
+                        "endOffsets": "109,1541,1595,1783,1898"
+                    }
+                },
+                {
+                    "source": "/home/kressin/Qt/5.12.6/android_armv7/src/android/java/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,4,3,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "319,197,85,427",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "422,314,192,520"
+                    },
+                    "to": {
+                        "startLines": "38,39,40,41",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1903,2011,2133,2245",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "2006,2128,2240,2338"
+                    }
+                }
+            ]
+        }
+    ]
+}
