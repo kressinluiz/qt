@@ -67,3 +67,8 @@ QAndroidJNIObject::callStaticMethod<T>("path/to/java/class", "method name", "sig
 # References
 - [Qt on Android by Stefan Rottger](http://schorsch.efi.fh-nuernberg.de/roettger/index.php/Lectures/QtOnAndroid)
 - [Qt 5.12.2 Android Extras](https://doc.qt.io/qt-5/qtandroidextras-index.html)
+- [Guide to include third-party Android Libs to Qt project](https://doc.qt.io/qt-5/android-3rdparty-libs.html)
+- [Android Deploy - Libs](https://doc.qt.io/qt-5/deployment-android.html#android-libraries)
+
+# References for future studies
+- [KDAB Qt on Android Series](https://www.kdab.com/qt-on-android-episode-2/)

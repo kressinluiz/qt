@@ -10,6 +10,7 @@
    "ndk-host": "linux-x86_64",
    "target-architecture": "armeabi-v7a",
    "android-package-source-directory": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/09qtandroidextrasjni/android",
+   "android-extra-libs": "/home/kressin/Android/Sdk/android_openssl/no-asm/latest/arm/libcrypto_1_1.so,/home/kressin/Android/Sdk/android_openssl/no-asm/latest/arm/libssl_1_1.so",
    "qml-root-path": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/09qtandroidextrasjni",
    "stdcpp-path": "/home/kressin/Android/Sdk/ndk/21.3.6528147/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libc++_shared.so",
    "useLLVM": true,

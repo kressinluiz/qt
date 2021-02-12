@@ -12,6 +12,9 @@ buildscript {
 repositories {
     google()
     jcenter()
+    flatDir {
+        dirs 'libs'
+    }
 }
 
 apply plugin: 'com.android.application'

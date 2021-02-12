@@ -61,8 +61,10 @@ DIST          = ../09qtandroidextrasjni/android/AndroidManifest.xml \
 		../09qtandroidextrasjni/android/gradle/wrapper/gradle-wrapper.properties \
 		../09qtandroidextrasjni/android/gradlew \
 		../09qtandroidextrasjni/android/gradlew.bat \
+		../09qtandroidextrasjni/android/project.properties \
 		../09qtandroidextrasjni/android/res/values/libs.xml \
 		../09qtandroidextrasjni/android/src/org/kressin/ExampleActivity.java \
+		../09qtandroidextrasjni/android/uartVideo-release.aar \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/spec_pre.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/common/unix.conf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/common/linux.conf \
@@ -219,6 +221,7 @@ DIST          = ../09qtandroidextrasjni/android/AndroidManifest.xml \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/exclusive_builds.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/toolchain.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_pre.prf \
+		/home/kressin/Android/Sdk/android_openssl/openssl.pri \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/resolve_config.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_post.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/qml_debug.prf \
@@ -404,6 +407,7 @@ Makefile: ../09qtandroidextrasjni/09qtandroidextrasjni.pro /home/kressin/Qt/5.12
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/exclusive_builds.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/toolchain.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_pre.prf \
+		/home/kressin/Android/Sdk/android_openssl/openssl.pri \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/resolve_config.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_post.prf \
 		/home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/qml_debug.prf \
@@ -586,6 +590,7 @@ Makefile: ../09qtandroidextrasjni/09qtandroidextrasjni.pro /home/kressin/Qt/5.12
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/exclusive_builds.prf:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/toolchain.prf:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_pre.prf:
+/home/kressin/Android/Sdk/android_openssl/openssl.pri:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/resolve_config.prf:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/default_post.prf:
 /home/kressin/Qt/5.12.6/android_armv7/mkspecs/features/qml_debug.prf:

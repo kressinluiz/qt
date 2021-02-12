@@ -1,0 +1,11 @@
+org.kressin.example
+array bundled_in_assets
+array bundled_in_lib
+array bundled_libs
+array qt_libs
+array qt_sources
+layout splash
+string fatal_error_msg
+string ministro_needed_msg
+string ministro_not_found_msg
+string unsupported_android_version

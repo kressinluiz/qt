@@ -11,6 +11,24 @@ SOURCES += \
 
 RESOURCES += qml.qrc
 
+ANDROID_PACKAGE_SOURCE_DIR = $$PWD/android
+
+DISTFILES += \
+    android/AndroidManifest.xml \
+    android/build.gradle \
+    android/gradle/wrapper/gradle-wrapper.jar \
+    android/gradle/wrapper/gradle-wrapper.properties \
+    android/gradlew \
+    android/gradlew.bat \
+    android/project.properties \
+    android/res/values/libs.xml \
+    android/src/org/kressin/ExampleActivity.java \
+    android/uartVideo-release.aar
+
+OTHER_FILES += \
+    android/AndroidManifest.xml \
+    android/src/org/kressin/ExampleActivity.java
+
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
 
@@ -22,19 +40,4 @@ qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
-DISTFILES += \
-    android/AndroidManifest.xml \
-    android/build.gradle \
-    android/gradle/wrapper/gradle-wrapper.jar \
-    android/gradle/wrapper/gradle-wrapper.properties \
-    android/gradlew \
-    android/gradlew.bat \
-    android/res/values/libs.xml \
-    android/src/org/kressin/ExampleActivity.java
-
-ANDROID_PACKAGE_SOURCE_DIR = $$PWD/android
-
-OTHER_FILES += \
-    android/AndroidManifest.xml \
-    android/src/org/kressin/ExampleActivity.java
-
+android: include(/home/kressin/Android/Sdk/android_openssl/openssl.pri)
