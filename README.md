@@ -48,3 +48,22 @@ QT+= quick androidextras widgets ... etc ...
 
 
 ## use the Qt Designer to design the widget hierarchy and implement functionality (click and drag approach - limited by complexity)
+
+# How to run java code on Qt for Android?
+- JNI (Java Native Interface) is used to call java code from native C/C++ code.
+- The Qt Android Extras module has a wrapper for JNI: [QAndroidJNIEnvironment](https://doc.qt.io/qt-5/qandroidjnienvironment.html), [QAndroidJNIExceptionCleaner](https://doc.qt.io/qt-5/qandroidjniexceptioncleaner.html), [QAndroidJNIObject](https://doc.qt.io/qt-5/qandroidjniobject.html)
+- Edit .pro file of the project to add the Android Extras Module: QT += androidextras
+- Include QtAndroidExtras header file: #include <QtAndroidExtras>
+
+## How to call a static java method with QtAndroidExtras?
+```
+QAndroidJNIObject::callStaticMethod<T>("path/to/java/class", "method name", "signature", parameters)
+```
+- T corresponds to the java return type (jint for a Java integer)
+- Signature specified in JNI style: "(parameter-types)result-type"
+    - Example: "(II)I" for two Java integer parameters (function arguments) and an integer result (return)
+
+
+# References
+- [Qt on Android by Stefan Rottger](http://schorsch.efi.fh-nuernberg.de/roettger/index.php/Lectures/QtOnAndroid)
+- [Qt 5.12.2 Android Extras](https://doc.qt.io/qt-5/qtandroidextras-index.html)
