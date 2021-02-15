@@ -8,7 +8,7 @@
 - QtQuick provides the basic building blocks (graphical elements) for all UIs, such as the objects for displaying images and text and for handling user input
 - Types and functionalities most common to UIs are provided by the QtQuick module.
 
-# QtQuick Controls
+## QtQuick Controls
 - QtQuick Controls provides QML types for use within an application.
 - 
 
@@ -22,4 +22,4 @@
 - [Qt Quick](https://doc.qt.io/qt-5/qtquick-index.html)
 - [Qt Quick Controls](https://doc.qt.io/qt-5/qtquickcontrols-index.html)
 - [Application Window - QtQuick Controls 2](https://doc.qt.io/qt-5/qml-qtquick-controls2-applicationwindow.html#details)
-- [Qt QML = QML Language and Engine infrastructure](https://doc.qt.io/qt-5/qtqml-index.html)
+- [Qt QML Module](https://doc.qt.io/qt-5/qtqml-index.html)
