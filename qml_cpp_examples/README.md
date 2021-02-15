@@ -4,6 +4,12 @@
 * [QApplication Class](https://doc.qt.io/qt-5/qapplication.html)
 * [QWidget class](https://doc.qt.io/qt-5/qwidget.html#details)
 * [QString class](https://doc.qt.io/qt-5/qstring.html#details)
+    * QString.toHtmlEscaped()
+    * QString.rightJustified(), leftJustified()
+    * QString.append(), remove(), replace(), clear(), isEmpty()
+    * QString.isLetter(), isDigit(), isSpace(), isPunct()
+    * QString.toInt(), setNum()
+    * QString.compare(), chop()
 * [UTF-16 code unit](https://en.wikipedia.org/wiki/UTF-16)
 * [QTextStream class](https://doc.qt.io/qt-5/qtextstream.html#details)
 * What is std::string.c_str() ?
