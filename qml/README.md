@@ -19,7 +19,11 @@
 - Imperative JavaScript expressions 
 - Dynamic property bindings
 - JSON syntax
-- [Qt Quick](https://doc.qt.io/qt-5/qtquick-index.html)
-- [Qt Quick Controls](https://doc.qt.io/qt-5/qtquickcontrols-index.html)
-- [Application Window - QtQuick Controls 2](https://doc.qt.io/qt-5/qml-qtquick-controls2-applicationwindow.html#details)
+- [QtQuick](https://doc.qt.io/qt-5/qtquick-index.html)
+- [QtQuick Controls](https://doc.qt.io/qt-5/qtquickcontrols-index.html)
+    - [Application Window - QtQuick Controls 2](https://doc.qt.io/qt-5/qml-qtquick-controls2-applicationwindow.html#details)
+- [QtQuick Layouts](https://doc.qt.io/qt-5/qtquicklayouts-index.html)
+    - [GridLayout](https://doc.qt.io/qt-5/qml-qtquick-layouts-gridlayout.html)
+    - [RowLayout](https://doc.qt.io/qt-5/qml-qtquick-layouts-rowlayout.html)
+    - [ColumnLayout](https://doc.qt.io/qt-5/qml-qtquick-layouts-columnlayout.html)
 - [Qt QML Module](https://doc.qt.io/qt-5/qtqml-index.html)
