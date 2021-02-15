@@ -1,5 +1,3 @@
-# The files and projects are for personal reference.
-
 # Qt for Android
 
 - Use Qt Creator to compile/debug projects and to install a specific version of Qt and its libraries. 
