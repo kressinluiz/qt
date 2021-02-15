@@ -70,3 +70,4 @@ QAndroidJNIObject::callStaticMethod<T>("path/to/java/class", "method name", "sig
 
 # References for future studies
 - [KDAB Qt on Android Series](https://www.kdab.com/qt-on-android-episode-2/)
+- [Qt5 C++ zetcode Tutorials](https://zetcode.com/gui/qt5/)
