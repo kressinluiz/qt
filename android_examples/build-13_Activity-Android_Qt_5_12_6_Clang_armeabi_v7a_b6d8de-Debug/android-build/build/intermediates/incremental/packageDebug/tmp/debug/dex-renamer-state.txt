@@ -1,0 +1,4 @@
+#Fri Feb 26 09:37:47 BRT 2021
+base.0=/home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

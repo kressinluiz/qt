@@ -1,4 +1,4 @@
-QT += quick androidextras
+QT += quick androidextras core
 
 CONFIG += c++11
 
@@ -31,7 +31,7 @@ DISTFILES += \
     android/gradlew \
     android/gradlew.bat \
     android/res/values/libs.xml \
-    android/src/JniMessenger.java
+    android/src/org/qtproject/example/jnimessenger/JniMessenger.java
 
 ANDROID_PACKAGE_SOURCE_DIR = $$PWD/android
 

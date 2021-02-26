@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-12communicationBetweenJavaAndCQML-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/kressin/Desktop/qtandroid/qtandroidrepo/examples/build-12communicationBetweenJavaAndCQML-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/res/values/libs.xml",
+                    "from": {
+                        "startLines": "62,27,-1,13,-1",
+                        "startColumns": "4,4,-1,5,-1",
+                        "startOffsets": "4078,654,-1,347,-1",
+                        "endLines": "512,61,-1,25,-1",
+                        "endColumns": "12,12,-1,13,-1",
+                        "endOffsets": "65722,4073,-1,648,-1"
+                    },
+                    "to": {
+                        "startLines": "2,453,488,491,504",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,61704,65128,65182,65488",
+                        "endLines": "452,487,490,503,506",
+                        "endColumns": "12,12,12,13,12",
+                        "endOffsets": "61699,65123,65177,65483,65598"
+                    }
+                },
+                {
+                    "source": "/home/kressin/Qt/5.12.6/android_armv7/src/android/java/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "507,508,509,510",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "65603,65711,65833,65945",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "65706,65828,65940,66038"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -15,3 +15,7 @@
 * What is std::string.c_str() ?
 * [QStringRef class](https://doc.qt.io/qt-5/qstringref.html)
 * [QFile class](https://doc.qt.io/qt-5/qfile.html)
+
+# Signals and Slots
+- Signals and slots are used for communication between objects.
+- A signal is emitted when a particular event occurs. A slot is a c++ method that is called when a signal connected to it is emitted.

@@ -45,9 +45,11 @@ ApplicationWindow {
     Connections {
         target: JniMessenger
         function onMessageFromJava(message) {
+            System.out.println("onMessageFromJava BEGIN");
             var output = qsTr("QML received a message: %1").arg(message)
             print(output)
             messengerLog.text += "\n" + output
+            System.out.println("onMessageFromJava END");
         }
     }
 }

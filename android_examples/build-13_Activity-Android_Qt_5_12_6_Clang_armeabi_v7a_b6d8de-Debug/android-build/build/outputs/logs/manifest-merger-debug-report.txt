@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:1-92:12
+INJECTED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:1-92:12
+INJECTED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:1-92:12
+MERGED from [:armeabi-v7a/uartVideo:] /home/kressin/.gradle/caches/transforms-1/files-1.1/uartVideo.aar/ee991b2da3032459dc8e023282e37532/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/8a319528fdfe808e7d8152ed1ed0ef46/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/df4c6652249b13dae7955e794a352495/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/f00702dcfd2053362d63bf555381d756/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.2.0.aar/d347e7054c25cd65303f691513b7ecce/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d01c68b5087517ecf08de7a82febf5b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/30a6602090cba065bdf69d7cb4b339b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e8223434ca01ac1d7b0633598eb51970/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/98b7c4df54d8d5cfd55a7a33e998d2b9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/902fa8c9409c58007490c52864de68ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/0bfa3073594bbe50222560a25b0c87a9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f92865c9ea0e0c0cf8a60e55d7ea1325/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1c26ef0cf8a4081208e9339a8b87ec69/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3f70a24b8a09b3d708948537bba59ae7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/20c0ea71105d67b78248c866405ac44d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/11d79968a26e1ab58ed002d93055cab8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3f38deb9ce2bf398bfa9669a922b1086/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-1.3.0.aar/fb5a954fa03963492533ac1b1e06f9c4/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/208164e7289a31ac31aa8a135fbd4625/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/fdc141aa0ccfcb4f5161e58a1d5e2d00/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/f88bb9e8167a85b4b6db06d77c17b949/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:1-92:12
+INJECTED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:11-42
+	android:versionName
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:102-127
+		INJECTED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml
+		INJECTED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:43-101
+	android:versionCode
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:128-151
+		INJECTED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml
+		INJECTED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:2:152-182
+uses-sdk
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:3:5-73
+MERGED from [:armeabi-v7a/uartVideo:] /home/kressin/.gradle/caches/transforms-1/files-1.1/uartVideo.aar/ee991b2da3032459dc8e023282e37532/AndroidManifest.xml:5:5-7:41
+MERGED from [:armeabi-v7a/uartVideo:] /home/kressin/.gradle/caches/transforms-1/files-1.1/uartVideo.aar/ee991b2da3032459dc8e023282e37532/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/8a319528fdfe808e7d8152ed1ed0ef46/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/8a319528fdfe808e7d8152ed1ed0ef46/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/df4c6652249b13dae7955e794a352495/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/df4c6652249b13dae7955e794a352495/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/f00702dcfd2053362d63bf555381d756/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/f00702dcfd2053362d63bf555381d756/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.2.0.aar/d347e7054c25cd65303f691513b7ecce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.2.0.aar/d347e7054c25cd65303f691513b7ecce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d01c68b5087517ecf08de7a82febf5b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d01c68b5087517ecf08de7a82febf5b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/30a6602090cba065bdf69d7cb4b339b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/30a6602090cba065bdf69d7cb4b339b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e8223434ca01ac1d7b0633598eb51970/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e8223434ca01ac1d7b0633598eb51970/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/98b7c4df54d8d5cfd55a7a33e998d2b9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/98b7c4df54d8d5cfd55a7a33e998d2b9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/902fa8c9409c58007490c52864de68ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/902fa8c9409c58007490c52864de68ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/0bfa3073594bbe50222560a25b0c87a9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/0bfa3073594bbe50222560a25b0c87a9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f92865c9ea0e0c0cf8a60e55d7ea1325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f92865c9ea0e0c0cf8a60e55d7ea1325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1c26ef0cf8a4081208e9339a8b87ec69/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1c26ef0cf8a4081208e9339a8b87ec69/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3f70a24b8a09b3d708948537bba59ae7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3f70a24b8a09b3d708948537bba59ae7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/20c0ea71105d67b78248c866405ac44d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/20c0ea71105d67b78248c866405ac44d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/11d79968a26e1ab58ed002d93055cab8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/11d79968a26e1ab58ed002d93055cab8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3f38deb9ce2bf398bfa9669a922b1086/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3f38deb9ce2bf398bfa9669a922b1086/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-1.3.0.aar/fb5a954fa03963492533ac1b1e06f9c4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-1.3.0.aar/fb5a954fa03963492533ac1b1e06f9c4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/208164e7289a31ac31aa8a135fbd4625/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/208164e7289a31ac31aa8a135fbd4625/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/fdc141aa0ccfcb4f5161e58a1d5e2d00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/fdc141aa0ccfcb4f5161e58a1d5e2d00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/f88bb9e8167a85b4b6db06d77c17b949/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/f88bb9e8167a85b4b6db06d77c17b949/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:3:42-71
+	android:minSdkVersion
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:3:15-41
+uses-permission#android.permission.INTERNET
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:7:9-71
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:7:26-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:12:22-74
+uses-feature#android.hardware.usb.host
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:13:5-61
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:13:19-59
+uses-feature#0x00020000
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:17:9-82
+	android:glEsVersion
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:17:23-55
+	android:required
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:17:56-79
+supports-screens
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:19:5-135
+	android:largeScreens
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:19:23-50
+	android:smallScreens
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:19:106-133
+	android:normalScreens
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:19:51-79
+	android:anyDensity
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:19:80-105
+application
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:21:5-90:19
+MERGED from [androidx.core:core:1.3.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-1.3.0.aar/fb5a954fa03963492533ac1b1e06f9c4/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-1.3.0.aar/fb5a954fa03963492533ac1b1e06f9c4/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/208164e7289a31ac31aa8a135fbd4625/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/208164e7289a31ac31aa8a135fbd4625/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /home/kressin/.gradle/caches/transforms-1/files-1.1/core-1.3.0.aar/fb5a954fa03963492533ac1b1e06f9c4/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:21:117-144
+	android:hardwareAccelerated
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:21:18-52
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:21:53-116
+uses-library#com.android.future.usb.accessory
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:22:9-72
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:22:23-70
+activity#org.qtproject.example.VideoReceiverActivity
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:23:9-85:20
+	android:screenOrientation
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:23:254-293
+	android:label
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:23:226-253
+	android:launchMode
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:23:294-324
+	android:configChanges
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:23:19-188
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:23:189-225
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:26:27-74
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:27:17-89
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:27:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:29:13-126
+	android:resource
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:29:87-124
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:29:24-86
+meta-data#android.app.lib_name
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:33:13-89
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:33:60-87
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:33:24-59
+meta-data#android.app.qt_sources_resource_id
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:34:13-112
+	android:resource
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:34:74-110
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:34:24-73
+meta-data#android.app.repository
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:35:13-87
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:35:62-85
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:35:24-61
+meta-data#android.app.qt_libs_resource_id
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:36:13-106
+	android:resource
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:36:71-104
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:36:24-70
+meta-data#android.app.bundled_libs_resource_id
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:37:13-116
+	android:resource
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:37:76-114
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:37:24-75
+meta-data#android.app.bundle_local_qt_libs
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:39:13-91
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:39:72-89
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:39:24-71
+meta-data#android.app.bundled_in_lib_resource_id
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:40:13-120
+	android:resource
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:40:78-118
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:40:24-77
+meta-data#android.app.bundled_in_assets_resource_id
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:41:13-126
+	android:resource
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:41:81-124
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:41:24-80
+meta-data#android.app.use_local_qt_libs
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:43:13-88
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:43:69-86
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:43:24-68
+meta-data#android.app.libs_prefix
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:44:13-100
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:44:63-98
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:44:24-62
+meta-data#android.app.load_local_libs
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:45:13-193
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:45:67-191
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:45:24-66
+meta-data#android.app.load_local_jars
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:46:13-150
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:46:67-148
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:46:24-66
+meta-data#android.app.static_init_classes
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:47:13-89
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:47:71-87
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:47:24-70
+meta-data#android.app.ministro_not_found_msg
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:51:13-122
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:51:24-70
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:51:71-120
+meta-data#android.app.ministro_needed_msg
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:52:13-116
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:52:24-67
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:52:68-114
+meta-data#android.app.fatal_error_msg
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:53:13-108
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:53:24-63
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:53:64-106
+meta-data#android.app.unsupported_android_version
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:54:13-132
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:54:24-75
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:54:76-130
+meta-data#android.app.background_running
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:71:13-93
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:71:70-91
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:71:24-69
+meta-data#android.app.auto_screen_scale_factor
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:74:13-99
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:74:76-97
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:74:24-75
+meta-data#android.app.extract_android_style
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:83:13-98
+	android:value
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:83:73-96
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:83:24-72
+service#org.qtproject.example.DataFlairService
+ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:87:9-89:19
+	android:name
+		ADDED from /home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-13_Activity-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/AndroidManifest.xml:87:18-71
