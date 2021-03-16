@@ -32,6 +32,9 @@ DISTFILES += \
     android/libs/armeabi-v7a/uartVideo.aar \
     android/res/values/libs.xml \
     android/res/xml/device_filter.xml \
+    android/src/BlockingQueueConsumer.java \
+    android/src/BlockingQueueProducer.java \
+    android/src/BlockingQueueVideoPackets.java \
     android/src/DataFlairService.java \
     android/src/ForegroundServiceLauncher.java \
     android/src/UdpClientSendThread.java \

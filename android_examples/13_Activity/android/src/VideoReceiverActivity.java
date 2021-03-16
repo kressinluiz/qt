@@ -21,7 +21,15 @@ public class VideoReceiverActivity extends Activity {
          System.out.println("Iniciando recebimento dos pacotes de vídeo.");
         //setContentView(R.layout.second_activity);
         //Toast.makeText(this, "RKRESSSIN", Toast.LENGTH_LONG).show();
-        startStream();
+        //startStream();
+
+        System.out.println("Iniciando BlockingQueue!");
+
+        try{
+            BlockingQueueVideoPackets.main(null);
+        } catch(Exception e){
+            System.out.println("BlockingQueueVideoPackets: main exception");
+        }
     }
 
     protected void onDestroy() {

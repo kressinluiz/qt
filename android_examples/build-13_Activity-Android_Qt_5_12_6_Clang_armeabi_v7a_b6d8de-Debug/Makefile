@@ -64,6 +64,9 @@ DIST          = ../13_Activity/android/AndroidManifest.xml \
 		../13_Activity/android/libs/armeabi-v7a/uartVideo.aar \
 		../13_Activity/android/res/values/libs.xml \
 		../13_Activity/android/res/xml/device_filter.xml \
+		../13_Activity/android/src/BlockingQueueConsumer.java \
+		../13_Activity/android/src/BlockingQueueProducer.java \
+		../13_Activity/android/src/BlockingQueueVideoPackets.java \
 		../13_Activity/android/src/DataFlairService.java \
 		../13_Activity/android/src/ForegroundServiceLauncher.java \
 		../13_Activity/android/src/UdpClientSendThread.java \

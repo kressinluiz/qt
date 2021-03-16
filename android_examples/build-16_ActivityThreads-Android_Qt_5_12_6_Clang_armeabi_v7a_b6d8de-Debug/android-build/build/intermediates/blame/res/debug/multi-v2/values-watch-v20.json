@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-16_ActivityThreads-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/8a319528fdfe808e7d8152ed1ed0ef46/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

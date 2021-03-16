@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-16_ActivityThreads-Android_Qt_5_12_6_Clang_armeabi_v7a_b6d8de-Debug/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/8a319528fdfe808e7d8152ed1ed0ef46/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

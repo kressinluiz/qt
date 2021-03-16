@@ -22,6 +22,8 @@ import java.io.*;
 
 public class UdpClientSendThread implements Runnable {
 
+        private Thread t;
+
         protected BlockingQueue<byte[]> queue = null;
 
         public UdpClientSendThread(BlockingQueue<byte[]> queue) {
@@ -36,9 +38,9 @@ public class UdpClientSendThread implements Runnable {
             try{
                 DatagramSocket udpSocket = new DatagramSocket(port);
                 InetAddress serverAddr = InetAddress.getByName("192.168.1.183");
-                //byte [] buf = ("STRING ENVIADA COMO ARRAY DE BYTES!").getBytes();
-                try{
-                    byte[] buf = queue.take();
+                byte [] buf = ("STRING ENVIADA COMO ARRAY DE BYTES!").getBytes();
+                //try{
+                    //byte[] buf = queue.take();
                     DatagramPacket packetSend = new DatagramPacket(buf, buf.length, serverAddr, port);
                     System.out.println("UDP Client : PORT " + String.valueOf(port));
                     System.out.println("UDP Client: Server Address: " + serverAddr);
@@ -54,9 +56,9 @@ public class UdpClientSendThread implements Runnable {
                             System.out.println("UDPClient send: IOException " + e);
                         }
                     }
-                } catch(InterruptedException e){
-                    System.out.println("InterruptedException!");
-                }
+                //}// catch(InterruptedException e){
+                 //   System.out.println("InterruptedException!");
+                //}
 
             } catch (SocketException e){
                 System.out.println("UDP Client: SocketException " + e);
@@ -64,6 +66,16 @@ public class UdpClientSendThread implements Runnable {
                 System.out.println("UDP Client: SecurityException " + e);
             } catch (UnknownHostException e) {
                 System.out.println("UDP Client: UnknownHostException " + e);
+            }
+
+            public void start () {
+                System.out.println("Starting Udp Thread");
+
+
+                if (t == null) {
+                    t = new Thread (this, "udpThread");
+                    t.start();
+                }
             }
 
         }

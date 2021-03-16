@@ -40,12 +40,14 @@ public class ForegroundServiceLauncher
         {
             if (isOreoOrHigher())
             {
-                //context.startForegroundService(new Intent(context, DataFlairService.class));
-                context.startForegroundService(new Intent(context, UdpClientService.class));
+                System.out.println("DataFlairService: startService");
+                context.startForegroundService(new Intent(context, DataFlairService.class));
+                System.out.println("UdpClientService: startService");
+                //context.startForegroundService(new Intent(context, UdpClientService.class));
             }
             else
             {
-                //context.startService(new Intent(context,DataFlairService.class));
+                context.startService(new Intent(context,DataFlairService.class));
                 context.startService(new Intent(context,UdpClientService.class));
             }
         }
@@ -55,7 +57,21 @@ public class ForegroundServiceLauncher
     public synchronized void stopService(Context context)
     {
         System.out.println("stopService");
-        context.stopService(new Intent(context, DataFlairService.class));
+        if (isOreoOrHigher())
+        {
+            //System.out.println("DataFlairService: startService");
+            //context.startForegroundService(new Intent(context, DataFlairService.class));
+            //System.out.println("UdpClientService: stopService");
+            //Intent stopIntent = new Intent(context, UdpClientService.class);
+            //stopIntent.setAction(Constants.ACTION.STOPFOREGROUND_ACTION);
+            //context.startForegroundService(stopIntent);
+        }
+        else
+        {
+            System.out.println("Shouldnt get here");
+            //context.startService(new Intent(context,DataFlairService.class));
+            //context.startService(new Intent(context,UdpClientService.class));
+        }
     }
 
     private boolean isOreoOrHigher()

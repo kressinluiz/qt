@@ -245,21 +245,21 @@ public class DataFlairService extends Service{
         //}
         //nativeInit();
 
-        //VideoClient
+        VideoClient
         video = new VideoClient(this);
 
-        // Set brightness/contrast/hue/saturation
-        // VideoClient.setCSC(int brightness, int contrast, int hue, int saturation)
-        // range 0 - 100
-        //video.setCSC(50, 80, 50, 80);
+         Set brightness/contrast/hue/saturation
+         VideoClient.setCSC(int brightness, int contrast, int hue, int saturation)
+         range 0 - 100
+        video.setCSC(50, 80, 50, 80);
 
-        // Set the exposure
-        // VideoClient.setExposureTime(int time, boolean auto)
-        // time: exposure time range 0 - 16384
-        // auto: enable auto exposure, set true to ignore the time parameter
-        //video.setExposureTime(0, true);
+         Set the exposure
+         VideoClient.setExposureTime(int time, boolean auto)
+         time: exposure time range 0 - 16384
+         auto: enable auto exposure, set true to ignore the time parameter
+        video.setExposureTime(0, true);
 
-        //VideoClient
+        VideoClient
         video.setClientListener(new VideoClient.ClientListener() {
 
             @Override
@@ -296,7 +296,7 @@ public class DataFlairService extends Service{
             }
         });
 
-        //VideoClient
+        VideoClient
         mUSBMonitor = new USBMonitor(this, mOnDeviceConnectListener);
         final List<DeviceFilter> filters = DeviceFilter.getDeviceFilters(this, R.xml.device_filter);
         mUSBMonitor.setDeviceFilter(filters);
@@ -308,11 +308,15 @@ public class DataFlairService extends Service{
         //        Size_SD
         //        Size_HD
         //        Size_FHD
-        video.setVideoSize(Size_HD);
+        //video.setVideoSize(Size_HD);
 
-        System.out.println("Iniciando Stream UDP!");
-        UdpClientSendThread c = new UdpClientSendThread(packetsReceivedQueue);
-        new Thread(c).start();
+        System.out.println("Iniciando blockingqueuevideopackets!");
+
+        try{
+            BlockingQueueVideoPackets.main(null);
+        } catch(Exception e){
+            System.out.println("BlockingQueueVideoPackets: main exception");
+        }
 
         return START_STICKY;
     }

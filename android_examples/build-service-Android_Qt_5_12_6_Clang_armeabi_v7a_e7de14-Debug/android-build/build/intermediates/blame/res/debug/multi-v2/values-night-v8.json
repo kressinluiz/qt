@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kressin/Desktop/qtandroid/qtandroidrepo/android_examples/build-service-Android_Qt_5_12_6_Clang_armeabi_v7a_e7de14-Debug/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/kressin/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/8a319528fdfe808e7d8152ed1ed0ef46/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    }
+                }
+            ]
+        }
+    ]
+}
